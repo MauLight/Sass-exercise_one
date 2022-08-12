@@ -34,7 +34,7 @@ h1 {
 }
 
 #main-nav {
-  background: #032f3e;
+  background: #252f3b;
 }
 #main-nav ul {
   width: 100%;
@@ -64,12 +64,12 @@ a {
   text-align: center;
 }
 a:hover {
-  background: #043e51;
+  background: #2d3948;
 }
 
 section h1 {
   font-size: 24px;
-  color: #032f3e;
+  color: #252f3b;
 }
 
 .lead-banner {
@@ -162,11 +162,11 @@ section h1 {
 #services a {
   text-decoration: none;
   text-align: center;
-  color: #032f3e;
+  color: #252f3b;
   font-weight: bold;
 }
 #services a:hover {
-  color: #3e1203;
+  color: #3b3125;
   background: none;
 }
 #services:after {
